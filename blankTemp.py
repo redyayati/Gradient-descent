@@ -10,7 +10,7 @@ running  = True
 
 
 while running : 
-    screen.fill((155,155,155))
+    screen.fill((55,55,55))
 
    
     for event in pg.event.get() : 
